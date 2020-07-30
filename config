@@ -3,7 +3,7 @@ author                      : Peter Širka
 version                     : 4.0.0
 
 allow_custom_titles         : true
-cookie          (genearte)  : 10
+cookie          (generate)  : 10
 cookie_expiration           : 1 week
 secretpassword  (generate)  : 10
 // hashmode                 : sha256
