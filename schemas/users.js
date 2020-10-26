@@ -202,7 +202,7 @@ NEWSCHEMA('Users', function(schema) {
 			for (var i = 0; i < fields.length; i++) {
 				var field = fields[i];
 				if (fields[field])
-					builder.fields(key);
+					builder.fields(field);
 			}
 		} else
 			builder.fields(fieldsall);
